@@ -1,0 +1,7 @@
+
+sudo vi /etc/vim/vimrc
+
+
+#at the end,
+colo elflord
+syntax on

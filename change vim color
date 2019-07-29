@@ -1,6 +1,15 @@
+#entirely
 
 sudo vi /etc/vim/vimrc
 
+#at the end,
+colo elflord
+syntax on
+
+
+-------------------
+#locally
+sudo vi ~/.vimrc
 
 #at the end,
 colo elflord
